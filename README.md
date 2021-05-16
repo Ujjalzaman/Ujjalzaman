@@ -7,9 +7,10 @@ Innovative Front-end Developer to building and maintaining responsive websites i
 Seeking to become the next front end developer on any web development team that’ll have me!.
 
 ##Skills & Experience.
+
 📕 React / Django
-💻 HTML / CSS / JavaScript / Node.js
-Skills: JS / REACT / Django/ HTML / CSS/EXPRESS/Node.js
+💻 HTML / CSS / JavaScript / Node.js / Express
+
 
 - 🔭 I’m currently working on this page. 
 
