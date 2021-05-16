@@ -1,7 +1,3 @@
-### Hi I'm Ujjal Zaman
-Front-end react developer.specially i work with MERN project. also i know Django rest framework.
-
-
 ### Hi there 👋, This is Ujjal Zaman
 #### I'm passionate MERN stack web developer
 I just finished my bachelor’s degree in information technology. I have what it takes to be a great web developer, front end or back end. Seeking to become the next front end developer on any web development team that’ll have me!
@@ -22,6 +18,3 @@ Skills: JS / REACT / Django/ HTML / CSS/EXPRESS/Node.js
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjalzaman&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujjalzaman)  
-
-
-
